@@ -51,7 +51,9 @@ q=((J&(~q))|((~K)&q));
 qbar=~q;
 end
 endmodule
+
 */
+```
 
 **RTL LOGIC FOR FLIPFLOPS**
 ![exp77](https://github.com/user-attachments/assets/5f5093c2-36f6-4c80-b191-bc1ef59951b6)
